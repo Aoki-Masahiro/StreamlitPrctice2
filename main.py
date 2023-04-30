@@ -7,7 +7,7 @@ import time
 
 
 
-st.title('Streamlit 入門')
+st.title('青木まひろの人生相談:Streamlitの使い方  入門')
 
 st.write('プログレスバーの表示')
 'start'
